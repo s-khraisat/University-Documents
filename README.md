@@ -1,6 +1,6 @@
 GOJO: Smart Tourism Experience & Cultural Guide (Jordan)
 
-GOJO is a centralized web and mobile platform designed to solve the fragmented travel experience currently faced by tourists in Jordan. By integrating AI-powered planning with offline accessibility, GOJO provides a seamless journey from arrival to departure.
+GOJO is a centralized mobile platform designed to solve the fragmented travel experience currently faced by tourists in Jordan. By integrating AI-powered planning with offline accessibility, GOJO provides a seamless journey from arrival to departure.
 
 
 
